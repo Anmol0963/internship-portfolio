@@ -1,6 +1,6 @@
 # Internship Portfolio
 
-A structured repository documenting my software development internship milestones, environment setup verification, core skill exercises, and implementation projects.
+A structured repository documenting my development internship milestones, environment setup verification, core skill exercises, and implementation projects.
 
 ## Repository Structure
 
