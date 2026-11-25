@@ -4,14 +4,14 @@ A structured repository documenting my software development internship milestone
 
 ## Repository Structure
 
-text
+```text
 internship-portfolio/
 ├── README.md           # Project overview, setup instructions, and repository guide
 ├── .gitignore          # Rules ignoring Python cache, virtual environments, and IDE files
 ├── src/
 │   └── hello_world.py  # Phase 1 environment and runtime verification script
 └── tests/              # Unit and integration tests (upcoming phases)
-
+```
 
 ## Quick Start
 
